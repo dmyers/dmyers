@@ -1,4 +1,6 @@
-### Hi there 👋
+👋 Hi! My name is Derek and I'm a full stack Laravel and PHP developer.
+
+I've contributed to many open source projects including Laravel, FuelPHP, Twitter Bootstrap and more.
 
 <!--
 **dmyers/dmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
