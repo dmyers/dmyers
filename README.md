@@ -1,4 +1,4 @@
-👋 Hi! My name is Derek and I'm a full stack Laravel and PHP developer.
+👋 Hi! My name is Derek and I'm a full stack Laravel and PHP developer focused building apps with Laravel.
 
 I've contributed to many open source projects including Laravel, FuelPHP, Twitter Bootstrap and more.
 
