@@ -2,6 +2,10 @@
 
 I've contributed to many open source projects including Laravel, FuelPHP, Twitter Bootstrap and more.
 
+[![Derek's github stats](https://github-readme-stats.vercel.app/api?username=dmyers)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmyers&layout=compact)
+
 <!--
 **dmyers/dmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
